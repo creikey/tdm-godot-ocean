@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/FidelityFalloffPlane.obj-c95ab1f3bd64d75521f8be7bcebf9b05.mesh"
+
+[deps]
+
+files=[ "res://.import/FidelityFalloffPlane.obj-c95ab1f3bd64d75521f8be7bcebf9b05.mesh" ]
+
+source_file="res://FidelityFalloffPlane.obj"
+dest_files=[ "res://.import/FidelityFalloffPlane.obj-c95ab1f3bd64d75521f8be7bcebf9b05.mesh", "res://.import/FidelityFalloffPlane.obj-c95ab1f3bd64d75521f8be7bcebf9b05.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

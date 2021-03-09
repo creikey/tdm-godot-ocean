@@ -1,0 +1,9 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://TDMOpenOcean.shader" type="Shader" id=1]
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/height_offset = 1.092
+shader_param/height_multiplier = 0.297
+shader_param/EPSILON_NRM = 0.106

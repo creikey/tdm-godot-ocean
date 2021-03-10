@@ -19,10 +19,6 @@ config/name="TDM Godot Ocean"
 run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
-[autoload]
-
-ReflectMaterialManager="*res://addons/Silicon.vfx.planar_reflection/reflect_material_manager.gd"
-
 [editor_plugins]
 
 enabled=PoolStringArray(  )
